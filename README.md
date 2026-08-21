@@ -5,9 +5,9 @@
 **A curated, community-maintained directory of AI tools for lawyers and legal teams — contract review, e-discovery, legal research, and more.**
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![GitHub stars](https://img.shields.io/github/stars/open-ai-directory/best-ai-tools-for-legal?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/open-ai-directory/best-ai-tools-for-legal?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/open-ai-directory/best-ai-tools-for-legal?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/open-ai-directory/best-ai-tools-for-lawyers?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/open-ai-directory/best-ai-tools-for-lawyers?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/open-ai-directory/best-ai-tools-for-lawyers?style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg?style=flat-square)](LICENSE)
 [![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-ff69b4?style=flat-square)](https://github.com/sponsors/open-ai-directory)
@@ -132,7 +132,7 @@
 
 > ### 📣 Know a legal AI tool that belongs here?
 >
-> **[Add it in two minutes →](https://github.com/open-ai-directory/best-ai-tools-for-legal/issues/new/choose)**
+> **[Add it in two minutes →](https://github.com/open-ai-directory/best-ai-tools-for-lawyers/issues/new/choose)**
 >
 > Or submit a PR directly — see [CONTRIBUTING.md](CONTRIBUTING.md) for the exact format. Every listing is community-sourced, so this list is only as good as what gets contributed.
 
@@ -142,7 +142,7 @@ Four repos live so far — more industries are launching soon under [@open-ai-di
 
 | | | |
 |---|---|---|
-| [🏥 Healthcare](https://github.com/open-ai-directory/best-ai-tools-for-healthcare) | **⚖️ Legal (this repo)** | [📈 Marketing](https://github.com/open-ai-directory/best-ai-tools-for-marketing) |
+| [🏥 Healthcare](https://github.com/open-ai-directory/best-ai-tools-for-healthcare) | **⚖️ Lawyers (this repo)** | [📈 Marketing](https://github.com/open-ai-directory/best-ai-tools-for-marketing) |
 | [💰 Finance](https://github.com/open-ai-directory/best-ai-tools-for-finance) | 🏠 Real Estate *(coming soon)* | 🛒 E-commerce *(coming soon)* |
 | 🎓 Teachers *(coming soon)* | 👥 HR *(coming soon)* | 🏭 Manufacturing *(coming soon)* |
 
@@ -164,12 +164,12 @@ Four repos live so far — more industries are launching soon under [@open-ai-di
 
 <div align="center">
 
-⭐ **[Star this repo](https://github.com/open-ai-directory/best-ai-tools-for-legal/stargazers)** if it saved you research time — it's how other people find it too.
+⭐ **[Star this repo](https://github.com/open-ai-directory/best-ai-tools-for-lawyers/stargazers)** if it saved you research time — it's how other people find it too.
 
-<a href="https://star-history.com/#open-ai-directory/best-ai-tools-for-legal&Date">
-  <img src="https://api.star-history.com/svg?repos=open-ai-directory/best-ai-tools-for-legal&type=Date" width="500" alt="Star history chart"/>
+<a href="https://star-history.com/#open-ai-directory/best-ai-tools-for-lawyers&Date">
+  <img src="https://api.star-history.com/svg?repos=open-ai-directory/best-ai-tools-for-lawyers&type=Date" width="500" alt="Star history chart"/>
 </a>
 
-Made with ⚖️ by [contributors](https://github.com/open-ai-directory/best-ai-tools-for-legal/graphs/contributors) · content is [CC0 licensed](LICENSE)
+Made with ⚖️ by [contributors](https://github.com/open-ai-directory/best-ai-tools-for-lawyers/graphs/contributors) · content is [CC0 licensed](LICENSE)
 
 </div>
