@@ -56,6 +56,7 @@
 - **[Alexi](https://www.alexi.com/)** — AI platform for legal research, memo drafting, and document analysis built for law firms. `Paid`
 - **[Bloomberg Law](https://pro.bloomberglaw.com/)** — Legal research platform with a built-in AI Assistant for case law search, drafting, and analysis. `Paid (enterprise/custom pricing)`
 - **[CoCounsel](https://legal.thomsonreuters.com/en/products/cocounsel)** — Thomson Reuters' AI legal assistant (formerly Casetext) for research, document review, and drafting on Westlaw content. `Paid (enterprise/custom pricing)`
+- **[Court Rules](https://www.courtrules.app)** — Free reference for U.S. federal court rules, local rules, judge standing orders, and court holidays, with a deadline calculator and an MCP server. `Freemium`
 - **[Lexis+ with Protégé](https://www.lexisnexis.com/en-us/products/lexis-plus-protege.page)** — LexisNexis legal research platform with the Protégé AI assistant for research, drafting, and analysis. `Paid (enterprise/custom pricing)`
 - **[Trellis](https://trellis.law/)** — AI platform for state trial court research, judge analytics, and motion drafting for litigators. `Paid (enterprise/custom pricing)`
 - **[vLex](https://vlex.com/)** — Global legal research platform, owned by Clio, with the Vincent AI assistant for case law and analysis. `Paid`
